@@ -1,0 +1,13 @@
+.inp-field {
+    margin: 20px 0;
+}
+
+.inp-field label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.btn-submit {
+    display: flex;
+    justify-content: flex-start;
+}

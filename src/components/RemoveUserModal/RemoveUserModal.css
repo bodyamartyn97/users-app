@@ -1,0 +1,30 @@
+.modal-content h1 {
+    text-align: center;
+}
+
+.btns button {
+    margin: 0.3rem;
+    padding: 10px 0;
+    font-weight: 600;
+    border-radius: 6px;
+    border: 1px solid;
+    cursor: pointer;
+    width: 100%;
+}
+
+.accept {
+    color: #fff;
+    background-color: rgb(42, 102, 188);
+}
+
+.reject {
+    color: rgb(100, 100, 100);
+}
+
+.accept:hover {
+    background-color: rgb(14, 71, 149);
+}
+
+.reject:hover {
+    background-color: rgb(194, 192, 192);
+}

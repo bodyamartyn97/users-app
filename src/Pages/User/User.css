@@ -1,0 +1,27 @@
+.nav-block {
+    padding: 10px;
+}
+
+.nav-block button {
+    display: flex;
+    background-color: transparent;
+    border: none;
+    color: #0b6bcb;
+    cursor: pointer;
+    padding: 5px 0;
+    font-size: 14px;
+}
+
+.nav-block button a {
+    text-decoration: none;
+    color: #0b6bcb;
+}
+
+#editUserBtn {
+    background-color: transparent;
+    border: none;
+    color: #0b6bcb;
+    cursor: pointer;
+    padding: 0;
+    font-size: 18px;
+}

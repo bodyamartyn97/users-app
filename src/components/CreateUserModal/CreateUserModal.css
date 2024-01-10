@@ -1,0 +1,23 @@
+.close {
+    cursor: pointer;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group input {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.btnSub {
+    margin-top: 10px;
+}
+
+label {
+    font: small-caps bold 24px/1 sans-serif;
+    color: #797979;
+    margin: 5px 0;
+}
